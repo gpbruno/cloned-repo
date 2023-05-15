@@ -1,0 +1,49 @@
+geo cashing
+
+
+
+objectos oracle
+
+shell script
+
+começar a ajudar com a metodologia de branching
+
+adaptar scripts em shellconfigurar os agentes de jenkins
+
+set output to be printed in the terminal
+git config --global core.pager cat
+
+
+credenciais sonae:
+PERERIAGB@parceiro.mc.pt
+Password.123
+
+
+
+usar o github actions, como mexer
+connectar o github ao vscode
+github desktop como mexer
+
+
+como fazer rollbacks com o git bash. git log na branch e depois por hash ou tag
+usar git revert
+
+
+validar com o retek, comentar commits e fazer pull requests
+
+criar branch com as entregas todas
+
+
+
+
+
+login com conta git no visual studio code
+clonar todos os repositórios pelo terminal git dentro do vscode (mostrar como se muda entre terminais)
+git clone url
+
+
+
+"entrar" no repositório desejado
+git reflog
+git revert <referencia obtida do comando anterior>
+
